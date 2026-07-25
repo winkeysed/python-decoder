@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30379648/README.md)
 # signal-decoder
 
 A small python script for decoding coordinate-based transmissions.
