@@ -26,6 +26,8 @@ if __name__ == "__main__":
 
     user_input = input("\n> ").strip()
     decoded = decode(user_input)
-
+if user_input == "67":
+        print("не ну ты долбаеб 67 67 67 67 67 иди нормальные координаты вводи")
+else:
     print(f"\n  DECODED: {decoded}")
     print("=" * 50)
